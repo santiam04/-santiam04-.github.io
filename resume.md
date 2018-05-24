@@ -1,8 +1,8 @@
 # Santi Amalia Ar-Nur
-*Mahasiswa Ilmu Komputer* \
-*Gedung Asrama TPB IPB Kamar 255* \
-*Jalan Lingkar Kampus IPB* \
-*Dramaga, Bogor* \
+*Mahasiswa Ilmu Komputer*
+*Gedung Asrama TPB IPB Kamar 255*
+*Jalan Lingkar Kampus IPB*
+*Dramaga, Bogor*
 *santiam04@gmail.com*
 
 ## Pendidikan
